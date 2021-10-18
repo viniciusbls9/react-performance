@@ -6,5 +6,5 @@
 <p align="center">
   <a href="https://reactjs.org/docs/react-api.html#reactmemo">Memo</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="https://reactjs.org/docs/hooks-reference.html#usememo">useMemo</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="https://reactjs.org/docs/hooks-reference.html#usecallback">useCallback</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="https://reactjs.org/docs/hooks-reference.html#usecallback">useCallback</a>
 </p>
